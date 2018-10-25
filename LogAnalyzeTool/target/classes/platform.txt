@@ -1,5 +1,0 @@
-uc
-Mozilla
-IE
-Opera
-Apple-PubSub

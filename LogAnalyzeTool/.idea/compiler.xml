@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="logAnalyzeHelper" />
+        <module name="logAnalyzeTool" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="logAnalyzeHelper" target="1.5" />
+      <module name="logAnalyzeTool" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
